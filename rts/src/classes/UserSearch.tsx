@@ -1,5 +1,4 @@
 import { Component } from 'react';
-import { isRegularExpressionLiteral } from 'typescript';
 
 interface User {
   name: string;
